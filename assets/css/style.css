@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Noto+Serif+Display:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    color: #425C47;
+    background-color: #bfbfbf;
+    
+}
+
+
+/* Heading and Logos*/
+
+h1, h2 {
+    font-family: 'Noto Serif Display', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #fafafa;
+    background-color: rgba(53, 82, 58, .7);
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
+    margin: 10px 0 0 30px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#menu {
+    font-family: 'Noto Serif Display', sans-serif;
+    font-size: 130%;
+    letter-spacing: 5px;
+    background-color: rgba(53, 82, 58, .7);
+    color: #fafafa;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin:10px 70px 0 0;
+    
+    
+    
+}
+#menu a {
+    background-color: rgba(53, 82, 58, .9);
+    color: #fafafa;
+    text-decoration: none;
+    border-radius: 5px;
+    height: 10px;
+    width: 15px;
+    padding: 5px;
+    
+}
+
+.active {
+    border-bottom: 1px solid #425C47;
+}
+ 
+/* hero image*/
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    
+    
+    
+}
+
+#hero-image {
+    background: url('../images/golf-image-04.jpeg') no-repeat center center;
+    height: 600px;
+    width: 100%;
+}
