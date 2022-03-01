@@ -124,7 +124,7 @@ h1  {
     font-size: 170%;
     font-weight: 800;
     width: 60%;
-    height: 1200px;
+    
     margin: 10px auto 0;
     
 }
@@ -141,4 +141,28 @@ h1  {
 
     padding: 20px;
     margin: 20px auto;
+}
+
+
+/* footer */
+
+footer {
+    height: 5%;
+    background-color: #425C47;
+    margin: 20px 0 0;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #fafafa;    
 }
