@@ -10,14 +10,14 @@ body {
     font-family: Lato, sans-serif;
     font-weight: 300;
     color: #425C47;
-    background-color: #bfbfbf;
+    
     
 }
 
 
 /* Heading and Logos*/
 
-h1, h2 {
+h1  {
     font-family: 'Noto Serif Display', sans-serif;
     font-weight: 600;
     text-transform: uppercase;
@@ -83,4 +83,43 @@ h1, h2 {
     background: url('../images/golf-image-04.jpeg') no-repeat center center;
     height: 600px;
     width: 100%;
+}
+
+#focus {
+    height: 400px;
+}
+
+#cover-text {
+    font-size: 90%;
+    font-family: 'Noto Serif Display', sans-serif;
+    font-weight: 300;
+    
+    letter-spacing: 4px;
+
+    width: 270px;
+    height: 150px;
+    border-radius: 10px;
+
+    padding: 10px;
+
+
+    color: #fafafa;
+    background-color: rgba(251, 197, 0, .5);
+
+    bottom: 300px;
+    left:  50px;
+
+    position: absolute;
+}
+
+
+
+/* Welcome text style */
+
+#welcome-msg p{
+    color: #425C47;
+    text-align: center;
+    width: 60%;
+    height: 300px;
+    margin: auto;
 }
