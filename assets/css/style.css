@@ -164,5 +164,28 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #fafafa;    
+    color: #ffd500;    
+}
+
+/* About page */
+
+#about-msg {
+    color: #425C47;
+    text-align: center;
+    font-family: 'Noto Serif Display', sans-serif;
+    font-size: 170%;
+    font-weight: 800;
+    width: 80%;
+    
+    
+    margin: 10px auto 0;
+}
+
+#golf-courses {
+    text-decoration: underline;
+    color: #ffd500;
+    background-color: rgb(53, 82, 58);
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
 }
