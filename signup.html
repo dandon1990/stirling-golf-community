@@ -29,7 +29,6 @@
         </nav>
     </header>
     
-
     <section id="hero-outer">
         <div id="hero-image"></div>
         <div id="cover-text">
@@ -38,53 +37,51 @@
             <h3>Dunblane / Stirling / Bridge of Allan</h3>
         </div>
     </section>
-    <section>
-        <!-- <div id="about-msg">
-            <div>
-                <h2>More before you get started</h2>
-                <br>
-                <p>Stirling golf community gives golfers the opportunity to try out different courses and play with different people than they would playing their weekly Saturday medal.
-                 Playing with members of different courses allows for them to play at discounted rates.
-                  The way we arrange pairings gives people the opportunity to learn from better players and teach improving players.</p>
-                  <br>
-                  <p>Come and be a part of Stirling’s newest golf social group and enjoy 3 beautiful courses:</p>
-            </div>
-            <br>    
-            <div>
-                <h3 id="golf-courses">Stirling Golf Club – Mondays 6.30pm </h3>
-                <br>
-                <p>
-                    Set against the inspiring backdrop of the Old Town of Stirling, built on ancient volcanic slopes, and crowned by the historic Castle rising above the spectacular crags. There are stunning views from the course in all directions across Central Scotland – the Ochil and Lomond Hills to the east, the Carse of Stirling, the Trossachs and the Southern Highlands beyond.
-                </p>
-            </div>  
-            <br>
-            <div>
-                <h3 id="golf-courses">Dunblane Golf Club – Wednesdays 7.00pm </h3>
-                <br>
-                <p>
-                    Set against the inspiring backdrop of the Old Town of Stirling, built on ancient volcanic slopes, and crowned by the historic Castle rising above the spectacular crags. There are stunning views from the course in all directions across Central Scotland – the Ochil and Lomond Hills to the east, the Carse of Stirling, the Trossachs and the Southern Highlands beyond.
-                </p>
-            </div> 
-            <br>
-            <div>
-                <h3 id="golf-courses">Bridge of Allan Golf Club – Fridays 6.30pm </h3>
-                <br>
-                <p>
-                    Set against the inspiring backdrop of the Old Town of Stirling, built on ancient volcanic slopes, and crowned by the historic Castle rising above the spectacular crags. There are stunning views from the course in all directions across Central Scotland – the Ochil and Lomond Hills to the east, the Carse of Stirling, the Trossachs and the Southern Highlands beyond.
-                </p>
-            </div> 
-            <br>
-            <div>
-                <h3 id="golf-courses">Sitlring Golf Club – Sundays 11.00pm </h3>
-                <br>
-                <p>
-                   Sundays are for relaxing! That's why we have a short game hour to work on anything that went wrong in the medal and to catch up with the rest of the group and see how they got on.
-                </p>
-            </div> 
-        </div>
+
+    <section >
+        <form method="POST" action="https://formdump.codeinstitute.net/" >
+            <h2>Join the Community</h2>
+            <label for="fname">First Name</label>
+            <input id="fname" name="first_name" type="text" required>
+            
+            <label for="lname">Last Name</label>
+            <input id="lname" name="last_name" type="text" required>
+            
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email_address" required>
+
+            <label for="phone">Phone No.</label>
+            <input type="tel" id="phone" name="phone" pattern="[0-9]{5}-[0-9]{6}" required>
+            
+            <label>H'cap</label>
+            
+            <label for="underfive"><5</label>
+            <input type="radio" id="underfive" name="handicap_ability" value="under5" required>
+
+            <label for="6-11">6-11</label>
+            <input type="radio" name="handicap_ability" id="6-11" value="six">
+
+            <label for="12-18">12-18</label>
+            <input type="radio" name="handicap_ability" id="12-18" value="twelve">
+
+            <label for="19">19+</label>
+            <input type="radio" name="handicap_ability" id="19" value="nineteen">
+
+            <label for="monday">Monday's</label>
+            <input type="checkbox" name="days" id="monday" value="monday">
+            <label for="wednesday">Wednesday's</label>
+            <input type="checkbox" name="days" id="wednesday" value="wednesday">
+            <label for="friday">Friday's</label>
+            <input type="checkbox" name="days" id="friday" value="friday">
+            <label for="sunday">Sunday's</label>
+            <input type="checkbox" name="days" id="sunday" value="sunday">
+            
+            <input class="join-button" type="submit" value="Join Now">
+        </form>
     </section>
-    <br>
-    <br> -->
+    
+
+        
     
 
     <footer>
