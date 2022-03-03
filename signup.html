@@ -39,44 +39,67 @@
     </section>
 
     <section >
-        <form method="POST" action="https://formdump.codeinstitute.net/" >
-            <h2>Join the Community</h2>
-            <label for="fname">First Name</label>
-            <input id="fname" name="first_name" type="text" required>
-            
-            <label for="lname">Last Name</label>
-            <input id="lname" name="last_name" type="text" required>
-            
-            <label for="email">Email Address</label>
-            <input type="email" id="email" name="email_address" required>
+        <form method="POST" action="https://formdump.codeinstitute.net/"  id="signup-form">
+            <fieldset>
+                <legend>Your Details</legend>
 
-            <label for="phone">Phone No.</label>
-            <input type="tel" id="phone" name="phone" pattern="[0-9]{5}-[0-9]{6}" required>
+                <div class="first-name-row">
+                    <label for="fname">First Name:</label>
+                    <input id="fname" name="first_name" type="text" placeholder="First Name" required>
+                </div>
+                
+                <div>
+                    <label for="lname">Last Name:</label>
+                    <input id="lname" name="last_name" type="text" placeholder="Last Name" required>
+                </div>
+
+                <div>
+                    <label for="email">Email Address:</label>
+                    <input type="email" id="email" name="email_address" placeholder="Email Address" required>
+                </div>
+
+                <div>
+                    <label for="phone">Phone No.:</label>
+                    <input type="tel" id="phone" name="phone" placeholder="01234567890" required>
+                </div>
+                <br>
             
-            <label>H'cap</label>
-            
-            <label for="underfive"><5</label>
-            <input type="radio" id="underfive" name="handicap_ability" value="under5" required>
+                <legend>Handicap:</legend>
 
-            <label for="6-11">6-11</label>
-            <input type="radio" name="handicap_ability" id="6-11" value="six">
+                <div class="handicaps">
+                    <label for="underfive"><5</label>
+                    <input type="radio" id="underfive" name="handicap_ability" value="under5" required>
 
-            <label for="12-18">12-18</label>
-            <input type="radio" name="handicap_ability" id="12-18" value="twelve">
+                    <label for="6-11">6-11</label>
+                    <input type="radio" name="handicap_ability" id="6-11" value="six">
 
-            <label for="19">19+</label>
-            <input type="radio" name="handicap_ability" id="19" value="nineteen">
+                    <label for="12-18">12-18</label>
+                    <input type="radio" name="handicap_ability" id="12-18" value="twelve">
 
-            <label for="monday">Monday's</label>
-            <input type="checkbox" name="days" id="monday" value="monday">
-            <label for="wednesday">Wednesday's</label>
-            <input type="checkbox" name="days" id="wednesday" value="wednesday">
-            <label for="friday">Friday's</label>
-            <input type="checkbox" name="days" id="friday" value="friday">
-            <label for="sunday">Sunday's</label>
-            <input type="checkbox" name="days" id="sunday" value="sunday">
-            
-            <input class="join-button" type="submit" value="Join Now">
+                    <label for="19">19+</label>
+                    <input type="radio" name="handicap_ability" id="19" value="nineteen">
+                </div>
+                <br>
+                <legend>Days you will play:</legend>
+
+
+                <div>
+                    <label for="monday">Monday's</label>
+                    <input type="checkbox" name="days" id="monday" value="monday">
+                    <label for="wednesday">Wednesday's</label>
+                    <input type="checkbox" name="days" id="wednesday" value="wednesday">
+                    <label for="friday">Friday's</label>
+                    <input type="checkbox" name="days" id="friday" value="friday">
+                    <label for="sunday">Sunday's</label>
+                    <input type="checkbox" name="days" id="sunday" value="sunday">
+                </div>
+                
+
+                <div>
+                    <input class="join-button" type="submit" value="Join Now">
+                </div>
+
+            </fieldset>
         </form>
     </section>
     
