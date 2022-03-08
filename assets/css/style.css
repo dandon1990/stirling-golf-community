@@ -189,7 +189,7 @@ footer {
     margin: 10px auto 0;
 }
 
-#golf-courses {
+.golf-courses {
     text-decoration: underline;
     color: #ffd500;
     background-color: rgb(53, 82, 58);
@@ -204,7 +204,7 @@ footer {
     
 }
 
-button a{
+#sign-up-button a{
     text-align: center;
     font-size: 250%;
     font-weight: 500;
