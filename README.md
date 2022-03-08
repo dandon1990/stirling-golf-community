@@ -25,4 +25,6 @@ The website provides a Sign-Up form for the members to get involved in the commu
 ### Home Page
 
 * The home page gives a brief introduction to the golf community and what it is about.
-*
+* The image selected for the home page shows 2 golfers together helping each other putting. This displays the environment the user will be experincing on participation.
+
+![Golfers putting](/assets/images/home-image.jpg)
