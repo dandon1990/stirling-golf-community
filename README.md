@@ -89,6 +89,10 @@ The website provides a Sign-Up form for the members to get involved in the commu
 ### Sign-Up Form
 * The form was tested to make sure it couldn't be submitted without having all areas filled out or selected.
 * The form was tested and and was successful with the Form dump page provided by Code Institute.
+![Failed Form](/assets/images/form-fail.jpg)
+![Filled Form](/assets/images/filled-form.jpg)
+![Form Success](/assets/images/form-dump.jpg)
+
 
 
 
