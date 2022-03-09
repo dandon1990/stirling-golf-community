@@ -45,6 +45,7 @@ The website provides a Sign-Up form for the members to get involved in the commu
 * An internal link has been placed at the bottom of the About Page which leads the user to the Sign-Up page. This allows the user to go to the sign up page without having to scroll back to the top of the page.
 * The link is displayed in yellow to let user know that is different from the rest of the text and more appealing to click.
 
+
 ![Sign up Link](/assets/images/signup-link.jpg)
 
 ### The Footer
@@ -53,3 +54,10 @@ The website provides a Sign-Up form for the members to get involved in the commu
 * The footer provides value to the user as it allows them to be consistently connected to the Community through social media. 
 
 ![Footer](/assets/images/footer.jpg)
+
+### Sign-Up Page
+
+* The Sign-Up Page allows the user to sign up to the Stirling Golf Community and begin participating on their golf days/evenings. 
+* The user will be able to specify what days they can play as well as their playing ability so that the community can pair them with the appropriate playing partners.
+* Contact details will be taken from the user to allow the community contact with any relevant news about the organisation of the event.
+* All information will be filled out in a form with a **Join Now** button which increases in size when hovered over. The form cannot be submitted unless all fields are filled out. 
