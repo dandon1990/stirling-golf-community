@@ -38,5 +38,9 @@ The website provides a Sign-Up form for the members to get involved in the commu
 * Each section also contains external links to the websites of the individual golf courses. All links open in a new tab for optimal user experience. 
 * All links were placed at the end of each section in a new paragraph to make them stand out to the user.
 
-![About Page]()
+![About Page](/assets/images/about-top.jpg)
+![About Golf Courses](/assets/images/about-bottom.jpg)
+![External Link ABout](/assets/images/about-external-link.jpg)
+
+
 
