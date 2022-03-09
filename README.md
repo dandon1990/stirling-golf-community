@@ -93,7 +93,43 @@ The website provides a Sign-Up form for the members to get involved in the commu
 ![Filled Form](/assets/images/filled-form.jpg)
 ![Form Success](/assets/images/form-dump.jpg)
 
+### Responsive Design
+* Ensure all features across the three pages maintain functionality across different screen sizes.
+* Ensure page layouts are maintained maintained across different screen sizes.
 
 
+### Browser Testing 
+* The site and all features were tested across different web browsers. 
+* The browsers used for testing: 
+    * Google Chrome
+    * Firefox
+    * Microsoft Edge
+    * Safari
+* Google Chrome 
+    * Navigation Bar and Logo links all worked and opened across different screen sizes.
+    * All social media links opened externally in a new tab.
+    * The internal link at he bottom of the **Home Page** leads to the **About Page** as expected.
+    * The internal link at the bottom of the **About Page** leads to the **Sign-Up Page** as expected.
+    * All pages maintained the layout across different Viewports. 
+        * Desktop (1600x992px)
+        * Laptop (1280x802px
+        * Tablet & Mobile (All devices listed on Dev Tools)
 
+* Results were the same for **Firefox and Microsoft Edge**
+* Safari was tested on smaller screen sizes as I don't have access to a larger screen size but all functionality worked across the smaller screen sizes (Tablet & Mobile).
 
+### Code Validators
+
+* HTML was ran through [W3 Markup Vaildation](https://validator.w3.org/) to check for any errors in the code.
+    * One error was found   
+    `Error: Bad character   after <. Probable cause: Unescaped <. Try escaping it as &lt;.`
+
+* CSS was ran through [W3 Jigsaw](https://jigsaw.w3.org/css-validator/) to check for any erros in the code.
+    * No errors were found.
+
+### Google Lighthouse
+
+* [Google Light house](https://developers.google.com/web/tools/lighthouse) was used to check the accesibility, performance, progressive web apps and SEO of the pages.
+
+    * Home Page 
+    ![Lighthouse Home]()
