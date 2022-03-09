@@ -1,10 +1,10 @@
 # Stirling Golf Community
 
-Stirling Golf Community was created for the golf club members in the area of Stirling shire. The website creates a platform for members, of 3 clubs (Stirling Golf Club, Bridge of Allan Golf Club, Dunblane Golf Club), to interact and play golf together.  
+Stirling Golf Community was created for the golf club members in the area of Stirlingshire. The website creates a platform for members, of 3 clubs (Stirling Golf Club, Bridge of Allan Golf Club, Dunblane Golf Club), to interact and play golf together.  
 
-The website provides a Sign-Up form for the members to get involved in the community and pick and choose when they would be able to play. From there the organisers will selct people form different handicap groups to play with each other. This gives everyone the opportunity to learn and feel like part of a local community.
+The website provides a Sign-Up form for the members to get involved in the community and pick and choose when they would be able to play. From there the organisers will select people from different handicap groups to play with each other. This gives everyone the opportunity to learn and feel like part of a local community.
 
-A live link to the page can be found here - (https://dandon1990.github.io/stirling-golf-community/)
+A live link to the page can be found here - https://dandon1990.github.io/stirling-golf-community/
 
 ![Responsive image for multiple devices](/assets/images/responsive-image.jpg)
 
@@ -12,23 +12,23 @@ A live link to the page can be found here - (https://dandon1990.github.io/stirli
 
 ### Navigation Bar
 * The navigation bar is present throughout the 3 pages and gives the user and clear way to naviagte through the website.
-* It has 3 links to the **Home**, **About** and **Sign-Up** pages. This will allow the user to switch between pages without the use of back or forawrd buttons.
+* It has 3 links to the **Home**, **About** and **Sign-Up** pages. This will allow the user to switch between pages without the use of back or forward buttons.
 * The website **Logo** also links back to the website home page making for friendly user experience.
 
 ![Navigation bar and logo ](/assets/images/navigation-image.jpg)
 
 
 ### Landing Page
-*  The landing page includes an image of a golf hole with a contrasting text which allows the user what the site is about and where it will take place.
-* The picture in this section let's the user know straught away that it is a golf website.
+*  The landing page includes an image of a golf hole with a contrasting text which allows the user know what the site is about and where it will take place.
+* The picture in this section let's the user know straight away that it is a golf website.
 
 ![Hero image](/assets/images//landing-image.jpg)
 
 ### Home Page
 
 * The home page gives a brief introduction to the golf community and what it is about.
-* The image selected for the home page shows 2 golfers together helping each other putting. This displays the environment the user will be experincing on participation.
-* There has been a link inserted at the bottom of the page for easy navigation on where the customer can find out more information on the times and loactions of the community. This is good user experiemce as they don't have to scroll to the top of the page to find out more. 
+* The image selected for the home page shows two golfers together helping each other putting. This displays the environment the user will be experincing on participation.
+* There has been a link inserted at the bottom of the page for easy navigation on where the customer can find out more information on the times and loactions of the community. This is good user experience as they don't have to scroll to the top of the page to find out more. 
 
 ![Golfers putting](/assets/images/home-image.jpg)
 
@@ -36,7 +36,7 @@ A live link to the page can be found here - (https://dandon1990.github.io/stirli
 ### About Page
 
 * The About page gives the user more information about when and where they would be playing golf.
-* The different scetions give a short description of each golf course.
+* The different sections give a short description of each golf course.
 * Each section also contains external links to the websites of the individual golf courses. All links open in a new tab for optimal user experience. 
 * All links were placed at the end of each section in a new paragraph to make them stand out to the user.
 
@@ -53,13 +53,14 @@ A live link to the page can be found here - (https://dandon1990.github.io/stirli
 ### The Footer
 
 * The footer section appears on all the pages and contains the scoaial media links for Stirling Golf Community. All links will be opened in a new tab for a better user experience and easier navigation.
+* All of the links change colour when hovered over to let the user know that they are click-able links.
 * The footer provides value to the user as it allows them to be consistently connected to the Community through social media. 
 
 ![Footer](/assets/images/footer.jpg)
 
 ### Sign-Up Page
 
-* The Sign-Up Page allows the user to sign up to the Stirling Golf Community and begin participating on their golf days/evenings. 
+* The Sign-Up Page allows the user to sign up to the Stirling Golf Community and begin participating in their golf days/evenings. 
 * The user will be able to specify what days they can play as well as their playing ability so that the community can pair them with the appropriate playing partners.
 * Contact details will be taken from the user to allow the community contact with any relevant news about the organisation of the event.
 * All information will be filled out in a form with a **Join Now** button which increases in size when hovered over. The form cannot be submitted unless all fields are filled out. 
@@ -72,7 +73,7 @@ A live link to the page can be found here - (https://dandon1990.github.io/stirli
 
 * All pages were visited from each page to make sure all links in the navigation bar function correctly.
 * Logo link was tested from each page to make sure it would always link to the Home Page.
-* All links were tested to make sure they were opened internally and not exteranlly.
+* All links were tested to make sure they were opened internally and not externally.
 * All links in the Navigation bar were tested on smaller screens where the navigation bar would move with media queries.
 
 ### Footer
@@ -90,7 +91,7 @@ A live link to the page can be found here - (https://dandon1990.github.io/stirli
 
 ### Sign-Up Form
 * The form was tested to make sure it couldn't be submitted without having all areas filled out or selected.
-* The form was tested and and was successful with the Form dump page provided by Code Institute.
+* The form was tested and was successful with the Form dump page provided by Code Institute.
 ![Failed Form](/assets/images/form-fail.jpg)
 ![Filled Form](/assets/images/filled-form.jpg)
 ![Form Success](/assets/images/form-dump.jpg)
@@ -130,13 +131,16 @@ A live link to the page can be found here - (https://dandon1990.github.io/stirli
 
 ### Google Lighthouse
 
-* [Google Light house](https://developers.google.com/web/tools/lighthouse) was used to check the accesibility, performance, progressive web apps and SEO of the pages.
+* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) was used to check the accesibility, performance, progressive web apps and SEO of the pages.
 
     * Home Page 
+
     ![Lighthouse Home](/assets/images/lighthouse-home.jpg)
     * About Page
+
     ![Lighthouse About](/assets/images/lighthouse-about.jpg)
     * Sign-Up Page
+    
     ![Lighthouse Sign-Up](/assets/images/lighthouse-signup.jpg)
 
 
