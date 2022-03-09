@@ -26,5 +26,12 @@ The website provides a Sign-Up form for the members to get involved in the commu
 
 * The home page gives a brief introduction to the golf community and what it is about.
 * The image selected for the home page shows 2 golfers together helping each other putting. This displays the environment the user will be experincing on participation.
+* There has been a link inserted at the bottom of the page for easy navigation on where the customer can find out more information on the times and loactions of the community. This is good user experiemce as they don't have to scroll to the top of the page to find out more. 
 
 ![Golfers putting](/assets/images/home-image.jpg)
+
+
+### About Page
+
+*
+
