@@ -61,3 +61,5 @@ The website provides a Sign-Up form for the members to get involved in the commu
 * The user will be able to specify what days they can play as well as their playing ability so that the community can pair them with the appropriate playing partners.
 * Contact details will be taken from the user to allow the community contact with any relevant news about the organisation of the event.
 * All information will be filled out in a form with a **Join Now** button which increases in size when hovered over. The form cannot be submitted unless all fields are filled out. 
+
+![Form Image](/assets/images/form-image.jpg)
