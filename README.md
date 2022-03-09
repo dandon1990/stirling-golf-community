@@ -4,6 +4,8 @@ Stirling Golf Community was created for the golf club members in the area of Sti
 
 The website provides a Sign-Up form for the members to get involved in the community and pick and choose when they would be able to play. From there the organisers will selct people form different handicap groups to play with each other. This gives everyone the opportunity to learn and feel like part of a local community.
 
+A live link to the page can be found here - (https://dandon1990.github.io/stirling-golf-community/)
+
 ![Responsive image for multiple devices](/assets/images/responsive-image.jpg)
 
 ## Features 
