@@ -114,7 +114,7 @@ A live link to the page can be found here - (https://dandon1990.github.io/stirli
     * The internal link at the bottom of the **About Page** leads to the **Sign-Up Page** as expected.
     * All pages maintained the layout across different Viewports. 
         * Desktop (1600x992px)
-        * Laptop (1280x802px
+        * Laptop (1280x802px)
         * Tablet & Mobile (All devices listed on Dev Tools)
 
 * Results were the same for **Firefox and Microsoft Edge**
@@ -123,8 +123,7 @@ A live link to the page can be found here - (https://dandon1990.github.io/stirli
 ### Code Validators
 
 * HTML was ran through [W3 Markup Vaildation](https://validator.w3.org/) to check for any errors in the code.
-    * One error was found   
-    `Error: Bad character   after <. Probable cause: Unescaped <. Try escaping it as &lt;.`
+    * No errors were found.
 
 * CSS was ran through [W3 Jigsaw](https://jigsaw.w3.org/css-validator/) to check for any erros in the code.
     * No errors were found.
@@ -139,3 +138,42 @@ A live link to the page can be found here - (https://dandon1990.github.io/stirli
     ![Lighthouse About](/assets/images/lighthouse-about.jpg)
     * Sign-Up Page
     ![Lighthouse Sign-Up](/assets/images/lighthouse-signup.jpg)
+
+
+## Deployment
+
+This site was deployed using Github Pages using the following steps:
+1. Log in to [GitHub](https://github.com/).
+2. From the list of Repositories, select [stirling-golf-community](https://github.com/dandon1990/stirling-golf-community).
+3. Navigate to [Settings](https://github.com/dandon1990/stirling-golf-community/settings). 
+4. Scroll down through the options to [GitHub Pages](https://github.com/dandon1990/stirling-golf-community/settings/pages).
+5. From the source section drop-down menu, select the **Master Branch**.
+6. The second drop-down menu value should remain as **/(root)**
+7. Press Save
+8. Refresh the page, scroll back down to **GitHub Pages**, the link to the deployed site will be available in a green sub-section with a tick icon next to it.
+
+Live link can be found here - https://dandon1990.github.io/stirling-golf-community/signup.html
+
+## Credits
+### Content
+* Content for the about page was taken from the golf course websites 
+    * https://www.stirlinggolfclub.com/
+    * http://www.dngc.co.uk/
+    * https://www.bofagc.com/
+
+### Images
+* All images were taken from royalty free website [Pexels](https://www.pexels.com/).
+### Fonts and Icons
+* Fonts were used from [Google Fonts](https://fonts.google.com/).
+* Icons for social media links were taken from [Font Awesome](https://fontawesome.com/).
+### Colours 
+* The colour scheme throughout was thought of by using Colour Palette Generator [Coolors](https://coolors.co/).
+### Code 
+* Code throughout the site has been helped by various different sources including:
+    * The [Love Running](https://code-institute-org.github.io/love-running-2.0/index.html) project.
+    * [CSS Tricks](https://css-tricks.com/) 
+    * [Stackoverflow](https://stackoverflow.com/)
+    * [W3schools](https://www.w3schools.com/default.asp)
+
+
+
