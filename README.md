@@ -132,4 +132,8 @@ The website provides a Sign-Up form for the members to get involved in the commu
 * [Google Light house](https://developers.google.com/web/tools/lighthouse) was used to check the accesibility, performance, progressive web apps and SEO of the pages.
 
     * Home Page 
-    ![Lighthouse Home]()
+    ![Lighthouse Home](/assets/images/lighthouse-home.jpg)
+    * About Page
+    ![Lighthouse About](/assets/images/lighthouse-about.jpg)
+    * Sign-Up Page
+    ![Lighthouse Sign-Up](/assets/images/lighthouse-signup.jpg)
