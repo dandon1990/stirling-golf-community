@@ -52,3 +52,4 @@ The website provides a Sign-Up form for the members to get involved in the commu
 * The footer section appears on all the pages and contains the scoaial media links for Stirling Golf Community. All links will be opened in a new tab for a better user experience and easier navigation.
 * The footer provides value to the user as it allows them to be consistently connected to the Community through social media. 
 
+![Footer](/assets/images/footer.jpg)
