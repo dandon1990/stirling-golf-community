@@ -33,5 +33,10 @@ The website provides a Sign-Up form for the members to get involved in the commu
 
 ### About Page
 
-*
+* The About page gives the user more information about when and where they would be playing golf.
+* The different scetions give a short description of each golf course.
+* Each section also contains external links to the websites of the individual golf courses. All links open in a new tab for optimal user experience. 
+* All links were placed at the end of each section in a new paragraph to make them stand out to the user.
+
+![About Page]()
 
