@@ -63,3 +63,27 @@ The website provides a Sign-Up form for the members to get involved in the commu
 * All information will be filled out in a form with a **Join Now** button which increases in size when hovered over. The form cannot be submitted unless all fields are filled out. 
 
 ![Form Image](/assets/images/form-image.jpg)
+
+## Testing
+
+### Navigation Bar and Logo
+
+* All pages were visited from each page to make sure all links in the navigation bar function correctly.
+* Logo link was tested from each page to make sure it would always link to the Home Page.
+* All links were tested to make sure they were opened internally and not exteranlly.
+* All links in the Navigation bar were tested on smaller screens where the navigation bar would move with media queries.
+
+### Footer
+* Ensure all links functioned by opening the relevant social media websites or applications if opened on a mobile device.
+* Ensure all links opened the relevant websites in a new tab to help the user navigate more easily.
+* Ensure that all links worked on all the pages (**Home, About and Sign-Up!**)
+* Ensure that all links worked across different browsers.
+* Ensure all links worked on different screen sizes.
+
+### About Page 
+
+* All links for the 3 different golf courses were tested to open in new tabs making for better user experience.
+* All links were tested across different screen sizes to make sure the maintained functionality.
+
+
+
