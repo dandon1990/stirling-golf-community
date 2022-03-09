@@ -83,7 +83,13 @@ The website provides a Sign-Up form for the members to get involved in the commu
 ### About Page 
 
 * All links for the 3 different golf courses were tested to open in new tabs making for better user experience.
-* All links were tested across different screen sizes to make sure the maintained functionality.
+* All links were tested across different screen sizes to make sure they maintained functionality.
+* Sign-Up link was tested to make sure to navigate to  the Sign-Up page.
+
+### Sign-Up Form
+* The form was tested to make sure it couldn't be submitted without having all areas filled out or selected.
+* The form was tested and and was successful with the Form dump page provided by Code Institute.
+
 
 
 
