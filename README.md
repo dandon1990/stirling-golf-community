@@ -42,5 +42,8 @@ The website provides a Sign-Up form for the members to get involved in the commu
 ![About Golf Courses](/assets/images/about-bottom.jpg)
 ![External Link ABout](/assets/images/about-external-link.jpg)
 
+* An internal link has been placed at the bottom of the About Page which leads the user to the Sign-Up page. This allows the user to go to the sign up page without having to scroll back to the top of the page.
+* The link is displayed in yellow to let user know that is different from the rest of the text and more appealing to click.
+
 
 
