@@ -99,6 +99,11 @@ A live link to the page can be found here - https://dandon1990.github.io/stirlin
 ### Responsive Design
 * Ensure all features across the three pages maintain functionality across different screen sizes.
 * Ensure page layouts are maintained maintained across different screen sizes.
+* Wireframes which I used to plan how the website would appear on different screen sizes
+
+![Wireframe Home](/assets/images/wireframe-home.jpg)
+![Wireframe About](/assets/images/wireframe-about.jpg)
+![Wireframe Signup](/assets/images/wireframe-signup.jpg)
 
 
 ### Browser Testing 
